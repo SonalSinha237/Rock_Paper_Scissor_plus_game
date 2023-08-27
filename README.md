@@ -2,7 +2,7 @@
 
 Hey there!! :wave: 
 
-This is our same good old game Stone-Paper-Scissor with a little addition. :smiley:	
+This is our same good old game Rock-Paper-Scissor with a little addition. :smiley:	
 
 Here, we also have lizard and spock along with the other three. Hence the 5 options.
 

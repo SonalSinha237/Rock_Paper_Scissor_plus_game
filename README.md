@@ -18,7 +18,7 @@ Here, we also have lizard and spock along with the other three. Hence the 5 opti
    - Spock:   ✔️ (Scissor, Rock)    ;    :x: (Paper, Lizard)
  
      Eg. Rock can defeat scissor & lizard but loses against paper & spock.
-   - It will be a tie if both the oponents chose same option.
+   - It will be a tie if both the opponents chose same option.
  
 * You will enter your choice first and then the computer will play its turn.
 * Play as many rounds as you want.

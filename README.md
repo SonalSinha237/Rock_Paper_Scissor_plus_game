@@ -8,7 +8,7 @@ Here, we also have lizard and spock along with the other three. Hence the 5 opti
 
 ## Rules
 
-* You can enter any one of the 5 choices (one at a time) ~ Rock:rock:, Paper:page_facing_up:, Scissor:scissors:, Lizard:lizard:, Spock:vulcan_salute:.
+* You can enter any one of the 5 choices (one at a time) ~ Rock :rock:, Paper :page_facing_up:, Scissor :scissors:, Lizard :lizard:, Spock :vulcan_salute:.
 * These options work as follows:
 
    - Rock:    ✔️ (Scissor, Lizard)    ;  :x: (Paper, Spock)      

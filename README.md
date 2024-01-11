@@ -1,4 +1,4 @@
-# Rock-Paper-Scissor-Lizard-Spock Game
+# Rock-Paper-Scissor-Lizard-Spock 
 
 Hey there!! :wave: 
 
